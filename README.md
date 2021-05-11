@@ -14,5 +14,5 @@ This is a Counter Application
 ![dec](https://user-images.githubusercontent.com/59164922/117834674-f75e7a00-b294-11eb-8a63-c6733bd99958.png)
 
 ### Here is the apk link you can download
-
+[Click here](https://github.com/Crypt0Nyt/Counter-App/releases/download/5.1/app-debug.apk)
 
